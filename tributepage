@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>The Tribute </title>
+    <link rel="stylesheet" href="tri.css" />
+</head>
+
+<body>
+    <div class="container">
+        <div class="content">
+            <section class="top_section">
+                <div class="image_container">
+                    <img src="C:\Users\Dell\Desktop\intern\tribute\download.jpg" alt="tribute" />
+                </div>
+                <div>
+                    <h1><center>Mahatma Jyotiba Phule</center></h1>
+                    <h4>1827 - 1890</h4>
+                </div>
+            </section>
+            <section class="about_section">
+                <h3 class="text-center">Satyashodhak Samaj</h3>
+                <p>On 24 September 1874, Phule formed Satyashodhak Samaj to focus on rights of depressed groups such women, the Shudra, and the Dalit.[31][45][46] Through this samaj, he opposed idolatry and denounced the caste system. Satyashodhak Samaj campaigned for the spread of rational thinking and rejected the need for priests.
+
+                    Phule established Satyashodhak Samaj with the ideals of human well-being, happiness, unity, equality, and easy religious principles and rituals.[46] A Pune-based newspaper, Deenbandhu, provided the voice for the views of the Samaj.[47]
+                    
+                    The membership of the samaj included Muslims, Brahmins and government officials. Phule's own Mali caste provided the leading members and financial supporters for the organization.
+                </p>
+
+            </section>
+            <section class="biography_section">
+                <h3>Biographies</h3>
+                <ul>
+                    <li>In 1848, an incident sparked off Jyotiba’s quest against the social injustice of caste discrimination and incited a social revolution in the Indian society.</li>
+                    <li>In 1851, Jyotiba established a girls' school. he opened two more schools for the girls and an indigenous school for the lower castes, especially for the Mahars and Mangs. </li>
+                    <li>He opened his home to people from all castes and backgrounds. He was a believer in gender equality and he exemplified his beliefs by involving his wife in all his social reform activities. </li>
+                    <li>In 1873, Jyotiba Phule formed the Satya Shodhak Samaj (Society of Seekers of Truth). He undertook a systematic deconstruction of existing beliefs and history, only to reconstruct an equality promoting version. .</li>
+                    <li>Perhaps the biggest legacy of Mahatma Jyotirao Phule is the thought behind his perpetual fight against social stigma that are enormously relevant still.</li>
+                    <li>He also wrote books for the Satyashodhak Samaj that dealt with history of Brahminism and outlined Puja protocols that the lower caste people were not allowed to learn.</li>
+            </section>
+            <footer>
+                <p>
+                    Read more about Dr. B. R. Ambedkar on
+                    <a href="https://en.wikipedia.org/wiki/Jyotirao_Phule">Wikipedia.</a
+            >
+          </p>
+        </footer>
+      </div>
+    </div>
+  </body>
+</html>
